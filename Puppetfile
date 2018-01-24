@@ -25,3 +25,8 @@ mod 'ogam',
   :git    => 'https://github.com/sgalopin/puppet-ogam',
   :branch => :control_branch,
   :default_branch => 'master'
+
+mod 'rtm',
+  :git    => 'https://github.com/sgalopin/puppet-rtm',
+  :branch => :control_branch,
+  :default_branch => 'master'
