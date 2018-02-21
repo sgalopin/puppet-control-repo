@@ -1,4 +1,4 @@
-node agent-pos-sa-dev.example.com {
+node 'agent-pos-sa-dev.example.com' {
   class { 'ogam'
       vhost_servername = 'agent-pos-sa-dev.example.com',
       admin_ip_address = '192.168.50.1',
